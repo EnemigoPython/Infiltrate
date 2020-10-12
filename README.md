@@ -1,5 +1,6 @@
 # Infiltrate
 A turn-based strategy game developed in Pygame
+
 All assets created by me, except sound effects taken from free sfx sites
 
 
